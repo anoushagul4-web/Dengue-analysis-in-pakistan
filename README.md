@@ -19,7 +19,7 @@ The dataset used in this project contains dengue case records collected from pub
 
 ## Project Files
 - `IDS LAB PROJECT REPORT.docx` – Detailed project report  
-- `IDS LAB PROJECT.html` – Web-based project output  
+- `IDS LAB PROJECT.html` – jupiter_notebook-based project output  
 - `README.md` – Project overview  
 
 ## Author
